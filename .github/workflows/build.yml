@@ -9,6 +9,7 @@ on:
     workflows: ["Submodules Sync"]
     types:
       - completed
+  workflow_dispatch:
 
 jobs:
   build:
