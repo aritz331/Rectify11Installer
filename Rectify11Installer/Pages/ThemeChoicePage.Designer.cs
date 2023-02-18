@@ -86,7 +86,7 @@
             this.randomCheckbox1.Name = "randomCheckbox1";
             this.randomCheckbox1.Size = new System.Drawing.Size(288, 19);
             this.randomCheckbox1.TabIndex = 5;
-            this.randomCheckbox1.Text = "LG";
+            this.randomCheckbox1.Text = "LGBTQ";
             this.randomCheckbox1.UseVisualStyleBackColor = true;
             // 
             // themeTitle
